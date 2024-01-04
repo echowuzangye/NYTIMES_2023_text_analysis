@@ -9,8 +9,8 @@ import time
 # requests 2.28.1 requires urllib3<1.27,>=1.21.1
 # I use python -m pip install urllib3==1.23
 
-key='OWXgX1QxIO17AtYGKqz2AQjaXox6lXG9'
-secret='qqdi2aRv5TfR8qOo'
+key='xxxxxxxx'
+secret='xxxxxxxx'
 
 NY_archive_ENDPOINT = 'https://api.nytimes.com/svc/archive/v1/2023/'
 
