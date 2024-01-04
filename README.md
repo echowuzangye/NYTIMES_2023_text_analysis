@@ -1,10 +1,12 @@
-# NYTIMES_2023_text_analysis
+![logo](https://1000logos.net/wp-content/uploads/2017/04/New-York-Times-logo.png)
+
+# The NY TIMES text analysis
 Analyze keywords 0f 2023 from New York Times 
 
+## Workflow
 
-## Getting Started
+![workflow](workflow.png)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
