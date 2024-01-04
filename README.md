@@ -1,7 +1,6 @@
-![logo](https://1000logos.net/wp-content/uploads/2017/04/New-York-Times-logo.png)
-
 # The NY TIMES text analysis
-Analyze keywords 0f 2023 from New York Times 
+Analyze keywords 0f 2023 from NewYork Times 
+
 
 ## Workflow
 
