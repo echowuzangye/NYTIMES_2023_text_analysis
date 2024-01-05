@@ -1,5 +1,5 @@
 # The NY TIMES text analysis
-Analyze keywords 0f 2023 from New York Times.  
+Analyze keywords of 2023 from New York Times.  
 
 
 
@@ -29,4 +29,4 @@ Analyze keywords 0f 2023 from New York Times.
 
 ![wordcloud](NYTimes_keywords_2023.png)
 
-S
+
