@@ -1,11 +1,11 @@
 # The NY TIMES text analysis
-Analyze keywords of 2023 from New York Times.  
+Analyze keywords of 2023 from the New York Times.  
 
 
 
 ## Workflow  
-* Retrieve metadata for each month of year 2023 via NYTimes archived API  
-* Performe ETL by running nytimes_etl.py
+* Retrieve metadata for each month of the year 2023 via NYTimes archived API  
+* Perform ETL by running nytimes_etl.py
 * In NY_times_analysis.ipynb, conduct data cleaning and analysis
 * Visualize keywords using Plotly, and use WordCloud for generating word clouds.
 
@@ -16,7 +16,7 @@ Analyze keywords of 2023 from New York Times.
 ### Keywords of 2023
 
 * ISRAEL-GAZA WAR
-* RUSSION-UKRAINE WAR
+* RUSSIAN-UKRAINE WAR
 * UNITED STATES POLITICS AND GOVERNMENT
 * INTERNATIONAL RELATIONS
 * 2019-NCOV
