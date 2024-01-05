@@ -1,5 +1,5 @@
 # The NY TIMES text analysis
-Analyze keywords 0f 2023 from NewYork Times 
+Analyze keywords of 2023 from NewYork Times 
 
 
 ## Workflow
