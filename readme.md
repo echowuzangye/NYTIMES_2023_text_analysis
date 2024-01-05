@@ -5,8 +5,8 @@ Analyze keywords of 2023 from New York Times.
 
 ## Workflow  
 * Retrieve metadata for each month of year 2023 via NYTimes archived API  
-* Extract useful information, and save it as CSV files  
-* In Jupyter Notebook, conduct data cleaning and analysis
+* Performe ETL by running nytimes_etl.py
+* In NY_times_analysis.ipynb, conduct data cleaning and analysis
 * Visualize keywords using Plotly, and use WordCloud for generating word clouds.
 
 
